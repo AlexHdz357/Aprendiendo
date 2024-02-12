@@ -1,0 +1,16 @@
+Documentación de maquetado de CV para practicar HTML básico
+
+Alejandro Hernández Villaseñor A01571408
+
+<!DOCTYPE html> nos ayuda a definir que el tipo del documento es html
+<head> nos sirve para marcar los meta datos importantes como
+<meta> que nos ayuda a determinar el atributo que define los caracteres que usará la página
+<title> define el título de la página web
+<body> nos ayuda a definir el cuerpo de la página, que es donde irá la mayoría del contenido
+<header> nos ayuda a mostrar el texto principal del título principal
+<h1> es el header principal y solo se usa una vez
+<main> es donde puedes poner el texto
+<p> se utiliza para poner el texto dentro de main
+<h2> <h3> etc son headers más pequeños con <h1> el más grande en la jerarquía
+<strong> lo utilizamos para poner en negritas algo en un texto, para resaltar su importancia
+<footer> lo utilizamos para el pie del texto y se pone despues de cerrar main pero sin salir del body
